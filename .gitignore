@@ -75,6 +75,7 @@ target/
 # IDE
 .idea
 *.swp
+.vscode
 
 # MYPY
 .mypy_cache
